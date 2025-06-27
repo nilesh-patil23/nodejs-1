@@ -10,7 +10,7 @@ phases:
   pre_build:
     commands:
       - echo Installing npm for build generation
-      - npm install # To install NPM
+      - npm install # To install NPM new changes
 
   build:
     commands:
